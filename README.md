@@ -1,6 +1,12 @@
 # SD1-5-comfy-workflows
 Just some ComfyUI workflows I made while messing around with ControlNets. All of these workflows are based on SD 1.5.
 
+## Original
+<img src="bad_real_estate_photo_1024.jpg" />
+
+## Corrected
+<img src="ComfyUI_00064_.png" />
+
 ## Files
 #### Img to Img Lighting & Canny Control Net
 Added image to image support to fix lighting and add a canny control net to preserve edges. Utilizng SD 1.5!
